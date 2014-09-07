@@ -1,0 +1,12 @@
+@author Ravi Agrawal
+@date Sep 2014
+
+The program calculates characters common to two input strings.
+Supported character encodings: ASCII, UTF8, UTF16 & UTF32
+
+Compile & Run:
+
+	make ascii : for ASCII suppport
+	make utf8 : for UTF8 support
+	make utf16 : for UTF16 support
+	make utf32 : for UTF32 support
